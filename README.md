@@ -12,7 +12,13 @@ Computer Science Engineering student focused on Java, web development, SQL, and 
 
 ## About Me
 
-I build responsive, user-friendly web applications and enjoy working across the stack, from front-end interfaces to database-backed functionality. My focus is on clean implementation, practical problem solving, and learning technologies that help turn ideas into usable products.
+I build responsive, user-friendly web applications and enjoy working across the stack, from front-end interfaces to database-backed functionality. I like clean implementation, practical problem solving, and turning ideas into usable products.
+
+### Quick Highlights
+
+- Computer Science Engineering student focused on Java, web development, SQL, and AI-driven applications
+- Comfortable moving between UI work, backend logic, and database integration
+- Interested in shipping useful projects that combine clarity, functionality, and practical design
 
 ## Core Skills
 
@@ -24,9 +30,9 @@ I build responsive, user-friendly web applications and enjoy working across the 
 
 ## Featured Projects
 
-- Nike Shoes eCommerce Website: Responsive eCommerce platform built with Java, Servlets, JDBC, MySQL, HTML, CSS, and JavaScript.
-- Clause-AI: AI-powered contract analysis system using Python, FastAPI, Streamlit, Pinecone, and Hugging Face.
-- Netflix Clone: Front-end web application built with HTML, CSS, JavaScript, Firebase, and APIs.
+- [Nike Shoes eCommerce Website](https://github.com/Ayeshasiddiqa789/Nike-Shoes-eCommerceWebsite): Responsive eCommerce platform built with Java, Servlets, JDBC, MySQL, HTML, CSS, and JavaScript.
+- [Clause-AI](https://github.com/Ayeshasiddiqa789/Ayesha_ClauseAI): AI-powered contract analysis system using Python, FastAPI, Streamlit, Pinecone, and Hugging Face.
+- [Netflix Clone](https://github.com/Ayeshasiddiqa789/Netfix-Clone): Front-end web application built with HTML, CSS, JavaScript, Firebase, and APIs.
 - Innovative Life Alert System: IoT-based accident and fall detection system using NodeMCU and MPU6050.
 
 ## Experience
@@ -59,6 +65,12 @@ I build responsive, user-friendly web applications and enjoy working across the 
 ## Currently Learning
 
 Backend development, scalable web applications, and AI-powered product building.
+
+## Open To
+
+- Java and web development projects
+- AI and automation experiments
+- Frontend work that benefits from strong structure and clean implementation
 
 <!-- Optional sections you can add later:
 ## GitHub Stats
