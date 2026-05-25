@@ -2,7 +2,7 @@
 
 # Ayesha Siddiqa
 
-Computer Science Engineering student focused on Java, web development, SQL, and AI-driven applications.
+I'm Ayesha Siddiqa, a results-driven Software Engineering student with expertise in Java and Python, passionate about harnessing web development and AI/ML.
 
 [![GitHub](https://img.shields.io/badge/GitHub-Ayeshasiddiqa789-181717?style=for-the-badge&logo=github)](https://github.com/Ayeshasiddiqa789)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayesha%20Siddiqa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayesha-siddiqa-60980627b)
