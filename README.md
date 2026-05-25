@@ -12,7 +12,7 @@ I'm Ayesha Siddiqa, a results-driven Software Engineering student with expertise
 
 ## About Me
 
-I build responsive, user-friendly web applications and enjoy working across the stack, from front-end interfaces to database-backed functionality. I like clean implementation, practical problem solving, and turning ideas into usable products.
+I'm Ayesha Siddiqa, a results-driven Software Engineering student with expertise in Java and Python. I build responsive, user-focused web applications and AI/ML-powered tools, and I enjoy working across the stack—from front-end interfaces to backend services and databases. I value clean implementation, practical problem solving, and shipping usable products.
 
 ### Quick Highlights
 
